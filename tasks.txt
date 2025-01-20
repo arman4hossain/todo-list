@@ -1,8 +1,7 @@
 Career Bootcamp , Let's make something new ....
 
 1. Buy groceries
-<<<<<<< HEAD
+<<<<<<< 
 2. Clean the room
 =======
 2. Wash the car
->>>>>>> feature-b
